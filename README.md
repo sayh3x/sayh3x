@@ -1,46 +1,76 @@
-hje# سلام، من [نام شما] 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-## درباره من
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-من یک [تخصص شما] با تجربه در [تکنولوژی‌ها و مهارت‌های کلیدی شما] هستم. به [علاقه‌مندی‌های شما] علاقه دارم و همیشه در حال یادگیری و رشد در حوزه [زمینه‌های تخصصی شما] هستم.
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-- 🌱 در حال حاضر در حال یادگیری: [تکنولوژی/زبان برنامه‌نویسی جدید]
-- 👯 به دنبال همکاری در: [پروژه/موضوع مورد علاقه]
-- 💬 از من بپرسید درباره: [مهارت‌ها یا موضوعات تخصصی]
-- 📫 چطور به من برسید: [ایمیل شما]
-- ⚡ یک حقیقت جالب: [یک حقیقت جالب درباره شما]
+<br/>
 
-## مهارت‌ها و ابزارها
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
-## پروژه‌های من
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-### [نام پروژه 1]
-توضیح کوتاه درباره پروژه 1 و اینکه چه مشکلی را حل می‌کند.
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-[![لینک به پروژه](https://github-readme-stats.vercel.app/api/pin/?username=نام‌کاربری‌شما&repo=نام-پروژه&theme=radical)](https://github.com/نام‌کاربری‌شما/نام-پروژه)
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
-### [نام پروژه 2]
-توضیح کوتاه درباره پروژه 2 و اینکه چه مشکلی را حل می‌کند.
+<br/>
+<hr/>
 
-[![لینک به پروژه](https://github-readme-stats.vercel.app/api/pin/?username=نام‌کاربری‌شما&repo=نام-پروژه&theme=radical)](https://github.com/نام‌کاربری‌شما/نام-پروژه)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-## آمار گیتهاب من
+<hr/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=نام‌کاربری‌شما&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=نام‌کاربری‌شما&layout=compact&theme=radical)
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-## ارتباط با من
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayh3x)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sayh3x)
-[![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=flat-square&logo=wordpress&logoColor=white)](https://www.h3xcode.ir)
+<hr/>
 
-## تشکر و قدردانی
+<br/>
 
-تشکر از بازدید شما از پروفایل من! اگر سوالی دارید یا می‌خواهید با من همکاری کنید، حتماً با من تماس بگیرید.
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
