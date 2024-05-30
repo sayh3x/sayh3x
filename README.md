@@ -1,9 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&pause=1000&color=40E6CBC3&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi%2C+im+H3X+;++.+.+.+u+can+sayh3x+%3F+%F0%9F%9B%B8F" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&pause=1000&color=40E6CBC3&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi%2C+im+H3X+;++.+.+.+u+can+sayh3x+%3F+%F0%9F%9B%B8" />
 </h1>
 
- I Work ON
-Electronics, AI, Backend Development, and Web Development Beginner
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&pause=1000&color=5BF79A&vCenter=true&repeat=false&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development%2C+and+Web+Development+Beginner++%3A')" />
+</h1>
 ------------------------------------------------------------------
 
 I've been passionate about electronics and complex topics since I was a child. I got introduced to programming when I was 11 years old, and since then, I've been developing and learning in this field. Currently, I am working on various projects and am always looking for new opportunities to expand my skills.
