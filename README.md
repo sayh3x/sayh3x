@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is H3X
+<h1>
+  <img hearf="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&pause=1000&color=E66657C3&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=%E2%98%A0%EF%B8%8F+Hi+im+H3X+%E2%98%A0%EF%B8%8F;++.+.+.+u+can+sayh3x+%3F"/>
+</h1>
 ===========================================================================================================================
 
 Electronics, AI, Backend Development, and Web Development Beginner
