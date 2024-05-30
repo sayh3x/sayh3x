@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&pause=1000&color=5BF79A&vCenter=true&repeat=false&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development%2C+and+Web+Development+Beginner++%3A')" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&pause=1000&color=E5F7F0&vCenter=true&multiline=true&repeat=false&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development+;and;Web+Development+Beginner++%3A')" />
 </h1>
 ------------------------------------------------------------------
 
