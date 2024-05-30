@@ -6,5 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayh3x&label=Profile%20views&color=9a1ac7&style=flat" alt="sayh3x" /> </p>
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
+<br/>
+<hr/>
 
