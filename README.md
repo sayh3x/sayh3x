@@ -1,10 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Say+H3X+👋;Welcome+Here;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=10CA00C3&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Say+H3X+for+Me;Welcome+Here+%F0%9F%91%A3+" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center"></h3>
 
 <br/>
 
