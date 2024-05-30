@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&pause=1000&color=E66657C3&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=%E2%98%A0%EF%B8%8F+Hi+im+H3X+%E2%98%A0%EF%B8%8F;++.+.+.+u+can+sayh3x+%3F" />
 </h1>
 
- I work it
+ I Work ON
 Electronics, AI, Backend Development, and Web Development Beginner
 ------------------------------------------------------------------
 
