@@ -1,5 +1,7 @@
+
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&pause=1000&color=10CA00C3&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Say+H3X+for+Me;Welcome+Here+%F0%9F%91%A3+" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=6EE600C3&background=FFFFFF00&center=true&vCenter=true&random=true&width=435&lines=Say+H3X+for+Me;Welcome+Here+%F0%9F%91%A3" />
 </h1>
 
 <h3 align="center"></h3>
