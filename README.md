@@ -17,8 +17,9 @@
 
 - I've been passionate about electronics and complex topics since I was a child. I got introduced to programming when I was 11 years old, and since then, I've been developing and learning in this field. Currently, I am working on various projects and am always looking for new opportunities to expand my skills.
 
-<img width="170" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW91dXJuaHVlZThmaDQyZTZod3ppdXI4cGxncGc4OGg2MWF4dzgxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fh5SOgVulmPkk1CsUd/giphy.gif" />
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW91dXJuaHVlZThmaDQyZTZod3ppdXI4cGxncGc4OGg2MWF4dzgxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fh5SOgVulmPkk1CsUd/giphy.gif" >
 
+<a><img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW91dXJuaHVlZThmaDQyZTZod3ppdXI4cGxncGc4OGg2MWF4dzgxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fh5SOgVulmPkk1CsUd/giphy.gif" ><a/>
 - * 🌍  I'm based in Heart of Iran
 - * 🖥️  See my portfolio at [Personal site](http://h3xcode.ir)
 - * ✉️  You can contact me at [sayh3x@gamil.com](mailto:sayh3x@gamil.com)
