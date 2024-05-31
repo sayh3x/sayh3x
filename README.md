@@ -7,8 +7,6 @@
 </h1>
 
 <h1>
-    <p align="left" width="150">
-        <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" 
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&duration=4000&pause=500&color=F7A869&vCenter=true&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development+;and;Web+Development+Beginner++%3A')" />
 </h1>
 
