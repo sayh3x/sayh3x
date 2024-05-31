@@ -18,8 +18,6 @@ I've been passionate about electronics and complex topics since I was a child. I
 * 🧠  I'm learning I'm currently learning Next.js
 * 🤝  I'm open to collaborating on Nothing at the moment
 
-<a href="https://www.x.com/sayh3x" target="_blank" rel="noreferrer">
-/></a>
 
 ### Skills
 
