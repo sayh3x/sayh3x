@@ -23,10 +23,7 @@
 - * 🚀  I'm currently working on [An industrial project](http://roxmotor.h3xcode.ir)
 - * 🧠  I'm learning I'm currently learning Next.js
 - * 🤝  I'm open to collaborating on Nothing at the moment
-
-<a href="https://github.com/sayh3x">   
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN2dTQ3dzhrd3F2enFjaW53YnZuOWxmOHJ0aGhlajJtcXFsYnk0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif">
-</a>
 
 ### Skills
 
