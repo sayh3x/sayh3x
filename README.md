@@ -7,7 +7,15 @@
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&duration=4000&pause=500&color=F7A869&vCenter=true&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development+;and;Web+Development+Beginner++%3A')" />
 </h1>
+
+
+
+![about-me](https://saeedh.storage.iran.liara.space/SaeedCodez-about-header.webp)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sayh3x&theme=transparent&hide_border=true&mode=weekly&card_width=846)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayh3x&label=Profile%20views&color=9a1ac7&style=flat" alt="sayh3x" /> </p>
+
 ------------------------------------------------------------------
 
 I've been passionate about electronics and complex topics since I was a child. I got introduced to programming when I was 11 years old, and since then, I've been developing and learning in this field. Currently, I am working on various projects and am always looking for new opportunities to expand my skills.
