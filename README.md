@@ -17,7 +17,7 @@
 
 - I've been passionate about electronics and complex topics since I was a child. I got introduced to programming when I was 11 years old, and since then, I've been developing and learning in this field. Currently, I am working on various projects and am always looking for new opportunities to expand my skills.
 
-<img align="right" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB5OHl6NG5oZjB0ZzhnZ2Y4bWFkeGNuOGI4OGo0Z29wM2xzNm45ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTDbySyfol5rQk0/giphy.gif" >
+<img align="right" width="380" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB5OHl6NG5oZjB0ZzhnZ2Y4bWFkeGNuOGI4OGo0Z29wM2xzNm45ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTDbySyfol5rQk0/giphy.gif" >
 
 * 🌍  I'm based in Heart of Iran
 * 🖥️  See my portfolio at [Personal site](http://h3xcode.ir)
