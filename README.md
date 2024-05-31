@@ -1,10 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&pause=1000&color=40E6CBC3&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi%2C+im+H3X+;++.+.+.+u+can+sayh3x+%3F+%F0%9F%9B%B8" />
-    <p align="center">
-          <video src="https://raw.githubusercontent.com/sayh3x/sayh3x/main/main-video.mp4" height="240" width="370" />>
-</p>
 </h1>
-
+<p align="center">
+  <video src="https://raw.githubusercontent.com/your-username/your-repository/main/video.mp4" height="240" width="370" controls>
+    Your browser does not support the video tag.
+  </video>
+</p>
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&duration=4000&pause=500&color=E5F7F0&vCenter=true&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development+;and;Web+Development+Beginner++%3A')" />
 </h1>
