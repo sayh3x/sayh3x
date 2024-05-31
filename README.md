@@ -24,7 +24,7 @@
 - * 🧠  I'm learning I'm currently learning Next.js
 - * 🤝  I'm open to collaborating on Nothing at the moment
 
-<a href="https://github.com/walidbosso">   
+<a href="https://github.com/sayh3x">   
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXkyZXZsdTZvNzRoanJ2bHA1azRseHp2bmZsYzJ6cDdnOHNqc2cwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="170">
 </a>
 
