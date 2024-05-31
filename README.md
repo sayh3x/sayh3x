@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&pause=1000&color=40E6CBC3&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi%2C+im+H3X+;++.+.+.+u+can+sayh3x+%3F+%F0%9F%9B%B8" />
     <p align="center">
-    <img src="https://github.com/sayh3x/sayh3x/blob/main/aline-programmer.webp" height="1120" width="1960">
+    <img src="https://github.com/sayh3x/sayh3x/blob/main/aline-programmer.webp" height="514" width="1960">
 </h1>
 
 <h1>
