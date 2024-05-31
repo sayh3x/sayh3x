@@ -27,7 +27,7 @@ I've been passionate about electronics and complex topics since I was a child. I
 
 ### Skills
 
-<p align="center">
+<p align="right">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
     
 <p align="left">
