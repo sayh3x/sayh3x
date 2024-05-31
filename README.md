@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://github-views.deno.dev/api/badge/sayh3x?style=flat&color=orange&lable=H3X+Visitor" alt="sayh3x" /> </p>
+<p align="left"> <img src="https://github-views.deno.dev/api/badge/sayh3x?style=flat&color=orange&label=H3X+Visitors" alt="sayh3x" /> </p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&pause=1000&color=F7A869&background=FFFFFF00&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hi%2C+im+H3X+👋🏻+;++.+.+.+u+can+sayh3x+%3F+%F0%9F%9B%B8" />
