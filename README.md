@@ -19,12 +19,12 @@
 
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW91dXJuaHVlZThmaDQyZTZod3ppdXI4cGxncGc4OGg2MWF4dzgxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fh5SOgVulmPkk1CsUd/giphy.gif" >
 
-- * 🌍  I'm based in Heart of Iran
-- * 🖥️  See my portfolio at [Personal site](http://h3xcode.ir)
-- * ✉️  You can contact me at [sayh3x@gamil.com](mailto:sayh3x@gamil.com)
-- * 🚀  I'm currently working on [An industrial project](http://roxmotor.h3xcode.ir)
-- * 🧠  I'm learning I'm currently learning Next.js
-- * 🤝  I'm open to collaborating on Nothing at the moment
+* 🌍  I'm based in Heart of Iran
+* 🖥️  See my portfolio at [Personal site](http://h3xcode.ir)
+* ✉️  You can contact me at [sayh3x@gamil.com](mailto:sayh3x@gamil.com)
+* 🚀  I'm currently working on [An industrial project](http://roxmotor.h3xcode.ir)
+* 🧠  I'm learning I'm currently learning Next.js
+* 🤝  I'm open to collaborating on Nothing at the moment
 
 ### Skills
 
