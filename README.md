@@ -16,14 +16,13 @@
 ------------------------------------------------------------------
 
 - I've been passionate about electronics and complex topics since I was a child. I got introduced to programming when I was 11 years old, and since then, I've been developing and learning in this field. Currently, I am working on various projects and am always looking for new opportunities to expand my skills.
-
+<img width="170" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN2dTQ3dzhrd3F2enFjaW53YnZuOWxmOHJ0aGhlajJtcXFsYnk0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif">
 - * 🌍  I'm based in Heart of Iran
 - * 🖥️  See my portfolio at [Personal site](http://h3xcode.ir)
 - * ✉️  You can contact me at [sayh3x@gamil.com](mailto:sayh3x@gamil.com)
 - * 🚀  I'm currently working on [An industrial project](http://roxmotor.h3xcode.ir)
 - * 🧠  I'm learning I'm currently learning Next.js
 - * 🤝  I'm open to collaborating on Nothing at the moment
-<img width="170" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN2dTQ3dzhrd3F2enFjaW53YnZuOWxmOHJ0aGhlajJtcXFsYnk0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif">
 
 ### Skills
 
