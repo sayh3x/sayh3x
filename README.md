@@ -25,7 +25,7 @@
 - * 🤝  I'm open to collaborating on Nothing at the moment
 
 <a href="https://github.com/sayh3x">   
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FpY3pnYWdncHA5a3l5bXlqcHk5YzA4d3Vtc3h2dnhnamt1MHZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.gif">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHN2dTQ3dzhrd3F2enFjaW53YnZuOWxmOHJ0aGhlajJtcXFsYnk0MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif">
 </a>
 
 ### Skills
