@@ -5,7 +5,8 @@
     <p align="center">
     <img src="https://github.com/sayh3x/sayh3x/blob/main/h3x-in-Mars.jpg" height="514" width="1960">
 </h1>
-
+<p align="left">
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" 
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&duration=4000&pause=500&color=F7A869&vCenter=true&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development+;and;Web+Development+Beginner++%3A')" />
 </h1>
@@ -25,7 +26,7 @@
 - * 🤝  I'm open to collaborating on Nothing at the moment
 
 <a href="https://github.com/sayh3x">   
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXkyZXZsdTZvNzRoanJ2bHA1azRseHp2bmZsYzJ6cDdnOHNqc2cwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="170">
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FpY3pnYWdncHA5a3l5bXlqcHk5YzA4d3Vtc3h2dnhnamt1MHZjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkKzNQjwPy7GvxZbfe/giphy.gif" width="170">
 </a>
 
 ### Skills
