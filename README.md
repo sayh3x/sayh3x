@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayh3x&label=Profile%20views&color=9a1ac7&style=flat" alt="sayh3x" /> </p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&pause=1000&color=F7A869&background=FFFFFF00&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hi%2C+im+H3X+👋🏻+;++.+.+.+u+can+sayh3x+%3F+%F0%9F%9B%B8" />
     <p align="center">
@@ -9,8 +11,6 @@
 </h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sayh3x&theme=transparent&hide_border=true&mode=weekly&card_width=846)](https://git.io/streak-stats)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayh3x&label=Profile%20views&color=9a1ac7&style=flat" alt="sayh3x" /> </p>
 
 ------------------------------------------------------------------
 
