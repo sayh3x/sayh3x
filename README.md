@@ -1,5 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&pause=1000&color=40E6CBC3&background=FFFFFF00&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi%2C+im+H3X+;++.+.+.+u+can+sayh3x+%3F+%F0%9F%9B%B8" />
+<p/>
 </h1>
 
 </p>
