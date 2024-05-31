@@ -10,9 +10,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&duration=4000&pause=500&color=F7A869&vCenter=true&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development+;and;Web+Development+Beginner++%3A')" />
 </h1>
 
-<p align="center">
-   [![GitHub Streak](https://streak-stats.demolab.com?user=sayh3x&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-</p>
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sayh3x&theme=humoris" alt="GitHub Streak" /></a>
+
 
 ------------------------------------------------------------------
 
