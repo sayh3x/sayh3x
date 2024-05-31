@@ -45,7 +45,11 @@ I've been passionate about electronics and complex topics since I was a child. I
     
 <p align="left">
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+<p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ds2ms4x4d4holvj2njbk2b6wtu&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31ds2ms4x4d4holvj2njbk2b6wtu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="Spotify Profile">
+  </a>
+</p>
 
 </ul>
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31ds2ms4x4d4holvj2njbk2b6wtu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ds2ms4x4d4holvj2njbk2b6wtu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
