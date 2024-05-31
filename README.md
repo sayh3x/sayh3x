@@ -5,7 +5,7 @@
 </h1>
 
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&duration=4000&pause=500&color=E5F7F0&vCenter=true&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development+;and;Web+Development+Beginner++%3A')" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&duration=4000&pause=500&color=F7A869&vCenter=true&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development+;and;Web+Development+Beginner++%3A')" />
 </h1>
 ------------------------------------------------------------------
 
