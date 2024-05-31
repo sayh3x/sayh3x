@@ -28,8 +28,9 @@ I've been passionate about electronics and complex topics since I was a child. I
 ### Skills
 
 <p align="right">
-    <a href="https://github.com/walidbosso"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/walidbosso"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=walidbosso&style=for-the-badge&color=blue"></a>
-
+<a href="https://github.com/walidbosso">   
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+</a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
     
 <p align="left">
