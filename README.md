@@ -30,7 +30,7 @@
 
 ---
 
-* 🌍  I'm based in Heart of Iran
+-* 🌍  I'm based in Heart of Iran
 * 🖥️  See my portfolio at [Personal site](http://h3xcode.ir)
 * ✉️  You can contact me at [sayh3x@gamil.com](mailto:sayh3x@gamil.com)
 * 🚀  I'm currently working on [An industrial project](http://roxmotor.h3xcode.ir)
