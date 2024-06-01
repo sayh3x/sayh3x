@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://git.io/sayh3x">
-    <img src="https://streak-stats.demolab.com?user=sayh3x&theme=humoris" alt="GitHub Streak" style="max-width: 100%;">
+    <img src="https://streak-stats.demolab.com?user=sayh3x&theme=humoris" alt="GitHub Streak" style="max-width: 90%;">
   </a>
 </p>
 
