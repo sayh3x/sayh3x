@@ -24,7 +24,7 @@
 
 * I've been passionate about electronics and complex topics since I was a child. I got introduced to programming when I was 11 years old, and since then, I've been developing and learning in this field. Currently, I am working on various projects and am always looking for new opportunities to expand my skills.
 
-<img src="https://giphy.com/embed/M9a7wLiqNEbByH1cHu" width="480" height="384" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/M9a7wLiqNEbByH1cHu">via GIPHY</a></p>
+<img src="https://giphy.com/embed/M9a7wLiqNEbByH1cHu" width="480" height="384" style="" frameBorder="0" class="giphy-embed" allowFullScreen></a><p><a href="https://giphy.com/gifs/M9a7wLiqNEbByH1cHu">via GIPHY</a></p>
 
 * 🌍  im h3x in iran
 * 🖥️  See my portfolio at [Personal site](http://h3xcode.ir)
