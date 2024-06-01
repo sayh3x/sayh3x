@@ -25,7 +25,7 @@
 * I've been passionate about electronics and complex topics since I was a child. I got introduced to programming when I was 11 years old, and since then, I've been developing and learning in this field. Currently, I am working on various projects and am always looking for new opportunities to expand my skills.
 
 <a href="https://github.com/sayh3x">
-  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB5OHl6NG5oZjB0ZzhnZ2Y4bWFkeGNuOGI4OGo0Z29wM2xzNm45ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTDbySyfol5rQk0/giphy.gif" style="width: 100%; max-width: 380px;" alt="GIF">
+  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB5OHl6NG5oZjB0ZzhnZ2Y4bWFkeGNuOGI4OGo0Z29wM2xzNm45ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTDbySyfol5rQk0/giphy.gif" style="width: 80%; max-width: 380px;" alt="GIF">
 </a>
 
 
