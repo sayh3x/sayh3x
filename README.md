@@ -26,7 +26,7 @@
 
 <picture>
   <source media="(min-width: 768px)" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
-  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB5OHl6NG5oZjB0ZzhnZ2Y4bWFkeGNuOGI4OGo0Z29wM2xzNm45ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTDbySyfol5rQk0/giphy.gif" alt="GIF" style="width: 80%; max-width: 380px; display: block; margin: 0 auto;" />
+  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB5OHl6NG5oZjB0ZzhnZ2Y4bWFkeGNuOGI4OGo0Z29wM2xzNm45ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTDbySyfol5rQk0/giphy.gif" alt="GIF" style="width: 60%; max-width: 380px; display: block; margin: 0 auto;" />
 </picture>
 
 * 🌍  im h3x in iran
