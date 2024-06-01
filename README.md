@@ -33,8 +33,8 @@
 
 ---
 
-<a href="https://github.com/sayh3x">
-  <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB5OHl6NG5oZjB0ZzhnZ2Y4bWFkeGNuOGI4OGo0Z29wM2xzNm45ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTDbySyfol5rQk0/giphy.gif" width="380">
+<a align="center" href="https://github.com/sayh3x">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTB5OHl6NG5oZjB0ZzhnZ2Y4bWFkeGNuOGI4OGo0Z29wM2xzNm45ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WTDbySyfol5rQk0/giphy.gif" width="380">
 </a>
 
 ### Skills
