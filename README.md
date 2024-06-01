@@ -24,6 +24,10 @@
 
 * I've been passionate about electronics and complex topics since I was a child. I got introduced to programming when I was 11 years old, and since then, I've been developing and learning in this field. Currently, I am working on various projects and am always looking for new opportunities to expand my skills.
 
+<a href="https://github.com/sayh3x">
+  <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJpcm5lZGpydnJzYXh4MjZha3F2Z3pxOTk0Y202cXpnZ3B3MTBtYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9a7wLiqNEbByH1cHu/giphy.gif" width="380" alt="GIF image not loaded">
+</a>
+
 * 🌍  im h3x in iran
 * 🖥️  See my portfolio at [Personal site](http://h3xcode.ir)
 *   ✉️  You can contact me at [sayh3x@gamil.com](mailto:sayh3x@gamil.com)
