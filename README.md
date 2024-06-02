@@ -82,6 +82,6 @@
 </p>
 <p align="center">
   
-  [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31ds2ms4x4d4holvj2njbk2b6wtu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ds2ms4x4d4holvj2njbk2b6wtu&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=c57b26&bar_color_cover=false)](https://github.com/walidbosso)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ds2ms4x4d4holvj2njbk2b6wtu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
   
 </p>
