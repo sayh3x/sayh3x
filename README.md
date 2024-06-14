@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github-views.deno.dev/api/badge/sayh3x?style=flat&color=orange&label=H3X+Visitors" alt="sayh3x" />
+  <img src="https://komarev.com/ghpvc/?username=sayh3x&color=orange&style=plastic&label=H3XViews" alt="sayh3x" />
 </p>
 
 <h1 align="center">
