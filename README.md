@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/sayh3x/sayh3x/blob/main/h3x-in-Mars.jpg" style="max-width: 100%; height: auto;" alt="H3X in Mars">
+  <img src="https://github.com/sayh3x/sayh3x/blob/main/now-h3x-mars.jpg" style="max-width: 100%; height: auto;" alt="H3X in Mars">
 </p>
 
 <h1 align="center">
