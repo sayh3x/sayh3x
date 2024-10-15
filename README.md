@@ -46,7 +46,7 @@
 
 ### Socials
 
-<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm13am1teWFkc3drMjl4MXNzbXl5N3E1ajRjYjh6dXpjN3N1eHEwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cxHLqRer5q6s/giphy.gif" width="300" alt="Illustration" align="right">
+<img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm13am1teWFkc3drMjl4MXNzbXl5N3E1ajRjYjh6dXpjN3N1eHEwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cxHLqRer5q6s/giphy.gif" width="300" alt="Illustration" align="right">
 
 
 <p align="left"> 
