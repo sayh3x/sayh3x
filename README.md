@@ -28,11 +28,12 @@
 
 -----------------------------------------
 
-<p align="center">
-  <img src="lightning.png" alt="Illustration" width="300" style="float:left; margin-right: 10px;" />
+<p align="center" style="position: relative;">
+  <img src="lightning.png" alt="Illustration" width="300" style="position: absolute; left: 0; top: -30px;" />
   <img src="mainIconsdark.svg" alt="Illustration" width="400" style="display:inline-block;" />
-  <img src="lightning.png" alt="Illustration" width="300" style="float:right; margin-left: 10px;" />
+  <img src="lightning.png" alt="Illustration" width="300" style="position: absolute; right: 0; top: -30px;" />
 </p>
+
 
 
 <p align="center"> 
