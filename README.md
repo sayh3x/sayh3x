@@ -34,9 +34,8 @@
 
 -----------------------------------------
 
-<p align="center">
-  <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm13am1teWFkc3drMjl4MXNzbXl5N3E1ajRjYjh6dXpjN3N1eHEwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cxHLqRer5q6s/giphy.gif" width="300" alt="Illustration">
-</p>
+<img src="mainIconsdark.svg" alt="Illustration" width="400" align="center" />
+
 
 <p align="center"> 
   <a href="https://www.github.com/sayh3x" target="_blank" rel="noreferrer">
