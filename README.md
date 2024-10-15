@@ -44,10 +44,11 @@
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
-### Socials
 <a align="center">
   <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm13am1teWFkc3drMjl4MXNzbXl5N3E1ajRjYjh6dXpjN3N1eHEwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cxHLqRer5q6s/giphy.gif" width="300" alt="Illustration" align="right">
 </a>
+
+### Socials
 
 <p align="left"> 
   <a href="https://www.github.com/sayh3x" target="_blank" rel="noreferrer">
