@@ -26,23 +26,13 @@
 > I've been passionate about electronics and complex topics since I was a child. I got introduced to programming when I was 11 years old, and since then, I've been developing and learning in this field. Currently, I am working on various projects and am always looking for new opportunities to expand my skills.
 
 
-### Skills
+-----------------------------------------
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+### Languages I Know 💻:
+
+![HTML5](https://img.shields.io/badge/HTML5-Expert-d1d1d1?style=for-the-badge&logo=HTML5&labelColor=E34F26&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-Expert-d1d1d1?style=for-the-badge&logo=CSS3&labelColor=1572B6&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-Expert-d1d1d1?style=for-the-badge&logo=Sass&labelColor=CC6699&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-d1d1d1?style=for-the-badge&logo=JavaScript&labelColor=F7DF1E&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-Nearly_Intermediate-d1d1d1?style=for-the-badge&logo=Bootstrap&labelColor=7952B3&logoColor=white) ![jQuery](https://img.shields.io/badge/jQuery-Nearly_Intermediate-d1d1d1?style=for-the-badge&logo=jQuery&labelColor=0769AD&logoColor=white) ![React](https://img.shields.io/badge/React-Expert-d1d1d1?style=for-the-badge&logo=React&labelColor=61DAFB&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-Expert-d1d1d1?style=for-the-badge&logo=Redux&labelColor=764ABC&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-Expert-d1d1d1?style=for-the-badge&logo=JSON&labelColor=000000&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-Expert-d1d1d1?style=for-the-badge&logo=D3.js&labelColor=F9A03C&logoColor=white) ![npm](https://img.shields.io/badge/npm-Expert-d1d1d1?style=for-the-badge&logo=NPM&labelColor=CB3837&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-Basic-d1d1d1?style=for-the-badge&logo=Node.js&labelColor=339933&logoColor=white) ![Express](https://img.shields.io/badge/Express-Basic-d1d1d1?style=for-the-badge&logo=Express&labelColor=000000&logoColor=white) 
+
+-----------------------------------------
 
 <a align="center">
   <img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm13am1teWFkc3drMjl4MXNzbXl5N3E1ajRjYjh6dXpjN3N1eHEwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cxHLqRer5q6s/giphy.gif" width="300" alt="Illustration" align="right">
