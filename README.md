@@ -29,15 +29,10 @@
 -----------------------------------------
 
 <p align="center" style="position: relative;">
+  <img src="mainIconsdark.svg" alt="Illustration" width="400" style="display:inline-block;" />
   <img src="lightning.png" alt="Illustration" width="300" style="position: absolute; left: 0; top: -60px;" />
   <img src="lightning.png" alt="Illustration" width="300" style="position: absolute; right: 0; top: -60px;" />
 </p>
-<p align="center" style="position: relative;">
-  <img src="mainIconsdark.svg" alt="Illustration" width="400" style="display:inline-block;" />
-</p>
-
-
-
 
 <p align="center"> 
   <a href="https://www.github.com/sayh3x" target="_blank" rel="noreferrer">
