@@ -28,12 +28,10 @@
 
 -----------------------------------------
 
-lightning.png
-
 <p align="center">
-  <img src="lightning.png" alt="Illustration" width="300" align="right" />
-  <img src="mainIconsdark.svg" alt="Illustration" width="400" align="center" />
-  <img src="lightning.png" alt="Illustration" width="300" align="left" />
+  <img src="lightning.png" alt="Illustration" width="300" style="float:left; margin-right: 10px;" />
+  <img src="mainIconsdark.svg" alt="Illustration" width="400" style="display:inline-block;" />
+  <img src="lightning.png" alt="Illustration" width="300" style="float:right; margin-left: 10px;" />
 </p>
 
 
