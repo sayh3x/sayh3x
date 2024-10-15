@@ -28,11 +28,25 @@
 
 -----------------------------------------
 
-<p align="center" style="position: relative;">
-  <img src="lightning.png" alt="Illustration" width="300" style="position: absolute; left: 0; top: -90px;" />
-  <img src="mainIconsdark.svg" alt="Illustration" width="400" style="display:inline-block;" />
-  <img src="lightning.png" alt="Illustration" width="300" style="position: absolute; right: 0; top: -90px;" />
+<p align="center" style="position: relative; text-align: center;">
+  <img src="lightning.png" alt="Illustration" width="300" style="position: absolute; left: 0; top: -60px; width: 100px;" />
+  <img src="mainIconsdark.svg" alt="Illustration" width="400" style="display: inline-block; width: 200px;" />
+  <img src="lightning.png" alt="Illustration" width="300" style="position: absolute; right: 0; top: -60px; width: 100px;" />
 </p>
+
+<style>
+  @media only screen and (max-width: 600px) {
+    img {
+      width: 80px;
+    }
+    .center-image {
+      display: block;
+      width: 150px;
+      margin: 0 auto;
+    }
+  }
+</style>
+
 
 <p align="center"> 
   <a href="https://www.github.com/sayh3x" target="_blank" rel="noreferrer">
