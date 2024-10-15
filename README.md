@@ -34,7 +34,9 @@
 
 -----------------------------------------
 
-<img src="mainIconsdark.svg" alt="Illustration" width="400" align="center" />
+<p align="center">
+  <img src="mainIconsdark.svg" alt="Illustration" width="400" align="center" />
+</p>
 
 
 <p align="center"> 
