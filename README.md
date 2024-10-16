@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://github.com/sayh3x/sayh3x/blob/main/now-h3x-mars.jpg" style="max-width: 100%; height: auto;" alt="H3X in Mars">
-</p>
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sayh3x&color=orange&style=plastic&label=H3XViews" alt="sayh3x" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/sayh3x/sayh3x/blob/main/now-h3x-mars.jpg" style="max-width: 100%; height: auto;" alt="H3X in Mars">
 </p>
 
 
