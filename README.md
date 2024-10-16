@@ -19,7 +19,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=4000&pause=500&color=F7A869&vCenter=true&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development+;and;Web+Development+Beginner++%3A')" style="max-width: 100%; height: auto;" />
 </h1>
-
+---
 <p align="center" style="position: relative; text-align: center;">
   <img src="mainIconsdark.svg" alt="Illustration" width="400" style="display: inline-block; width: 400px;" />
 </p>
