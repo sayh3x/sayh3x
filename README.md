@@ -25,8 +25,7 @@
 
 > I've been passionate about electronics and complex topics since I was a child. I got introduced to programming when I was 11 years old, and since then, I've been developing and learning in this field. Currently, I am working on various projects and am always looking for new opportunities to expand my skills.
 
-
------------------------------------------
+---
 
 <p align="center" style="position: relative; text-align: center;">
   <img src="mainIconsdark.svg" alt="Illustration" width="400" style="display: inline-block; width: 400px;" />
