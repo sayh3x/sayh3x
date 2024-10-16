@@ -1,8 +1,8 @@
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=sayh3x&color=orange&style=plastic&label=H3XViews" alt="sayh3x" />
 </p>
 
-<h1 align="center">
+<h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&pause=1000&color=F7A869&background=FFFFFF00&center=true&vCenter=true&repeat=true&random=false&width=435&lines=Hi%2C+im+H3X+👋🏻+;++.+.+.+u+can+sayh3x+%3F+%F0%9F%9B%B8" style="max-width: 100%; height: auto;" />
 </h1>
 
