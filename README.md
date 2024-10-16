@@ -1,15 +1,10 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sayh3x&color=orange&style=plastic&label=H3XViews" alt="sayh3x" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&pause=1000&color=F7A869&background=FFFFFF00&center=true&vCenter=true&repeat=true&random=false&width=435&lines=++.+.+.+u+can+sayh3x+%3F+%F0%9F%9B%B8" style="max-width: 100%; height: auto;" />
-</h1>
-
 <p align="center">
   <img src="https://github.com/sayh3x/sayh3x/blob/main/now-h3x-mars.jpg" style="max-width: 100%; height: auto;" alt="H3X in Mars">
 </p>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sayh3x&color=orange&style=plastic&label=H3XViews" alt="sayh3x" />
+</p>
 
 
 <h1 align="center">
