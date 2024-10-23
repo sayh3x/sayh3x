@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/sayh3x/sayh3x/blob/main/now-h3x-mars.jpg" style="max-width: 100%; height: auto;" alt="H3X in Mars">
+  <img src="https://github.com/sayh3x/sayh3x/blob/main/PH/now-h3x-mars.jpg" style="max-width: 100%; height: auto;" alt="H3X in Mars">
 </p>
 
 
@@ -18,7 +18,8 @@
 </p>
 
 <p align="center" style="position: relative; text-align: center;">
-  <img src="mainIconsdark.svg" alt="Illustration" width="400" style="display: inline-block; width: 400px;" />
+  <img src="PH/mainIconsdark.svg#gh-dark-mode-only" alt="Dark Mode Icon" width="400" />
+  <img src="PH/mainIconswhite.svg#gh-light-mode-only" alt="Light Mode Icon" width="400" />
 </p>
 
 
