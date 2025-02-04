@@ -11,7 +11,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=4000&pause=500&color=F7A869&vCenter=true&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development+;and;Web+Development+Beginner++%3A')" style="max-width: 100%; height: auto;" />
 </h1>
 
-<a href=""><img src="https://github-readme-streak-stats-jo97f82ig-rox-a89bd569.vercel.app?user=sayh3x&theme=humoris&hide_border=true&border_radius=40&mode=weekly&card_width=480&card_height=100" alt="GitHub Streak" /></a>
+<a href="https://github.com/sayh3x">
+    <img src="https://github-readme-streak-stats-jo97f82ig-rox-a89bd569.vercel.app?user=sayh3x&theme=humoris&hide_border=true&border_radius=40&mode=weekly&card_width=480&card_height=100" alt="GitHub Streak" />
+</a>
 
 <p align="center" style="position: relative; text-align: center;">
   <img src="PH/mainIconsdark.svg#gh-dark-mode-only" alt="Dark Mode Icon" width="400" />
