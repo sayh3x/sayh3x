@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <a ><img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=24&pause=1000&color=F7A24C&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+i'm+H3X%F0%9F%9B%B8" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=24&pause=1000&color=F7A24C&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+i'm+H3X%F0%9F%9B%B8" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,12 +11,12 @@
 </p>
 
 <h1 align="center">
-  <a ><img src="https://readme-typing-svg.herokuapp.com?font=Doto&letterSpacing=.2rem;&pause=1000&color=F7A24C&center=true&vCenter=true&width=435&lines=Building+AI+%7C+Breaking+Security" alt="Typing SVG" /></a>
-  <a ><img src="https://readme-typing-svg.herokuapp.com?font=Doto&letterSpacing=.2rem;&pause=1000&color=F7A24C&center=true&vCenter=true&width=435&lines=Developing+Hardware+%26+Software" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Doto&letterSpacing=.2rem;&pause=1000&color=F7A24C&center=true&vCenter=true&width=435&lines=Building+AI+%7C+Breaking+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Doto&letterSpacing=.2rem;&pause=1000&color=F7A24C&center=true&vCenter=true&width=435&lines=Developing+Hardware+%26+Software" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a ><img src="https://github-readme-streak-stats-orcin-five.vercel.app?user=sayh3x&theme=humoris&hide_border=true&border_radius=40&mode=weekly&card_height=100" alt="GitHub Streak" /></a>
+  <<img src="https://github-readme-streak-stats-orcin-five.vercel.app?user=sayh3x&theme=humoris&hide_border=true&border_radius=40&mode=weekly&card_height=100" alt="GitHub Streak" />
 </p>
 <p align="center" style="position: relative; text-align: center;">
   <img src="PH/mainIconsdark.svg#gh-dark-mode-only" alt="Dark Mode Icon" width="400" />
