@@ -16,7 +16,7 @@
 </h1>
 
 <p align="center">
-  <<img src="https://github-readme-streak-stats-orcin-five.vercel.app?user=sayh3x&theme=humoris&hide_border=true&border_radius=40&mode=weekly&card_height=100" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-orcin-five.vercel.app?user=sayh3x&theme=humoris&hide_border=true&border_radius=40&mode=weekly&card_height=100" alt="GitHub Streak" />
 </p>
 <p align="center" style="position: relative; text-align: center;">
   <img src="PH/mainIconsdark.svg#gh-dark-mode-only" alt="Dark Mode Icon" width="400" />
