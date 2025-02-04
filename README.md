@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=24&pause=1000&color=F7A24C&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+i'm+H3X" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=24&pause=1000&color=F7A24C&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+i'm+H3X%F0%9F%9B%B8" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -11,8 +11,8 @@
 </p>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&pause=1000&color=F7A24C&center=true&vCenter=true&repeat=false&width=435&lines=Building+AI+%7C+Breaking+Security" alt="Typing SVG" /></a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&letterSpacing=.2rem&pause=1000&color=F7A24C&center=true&vCenter=true&repeat=false&width=435&lines=Developing+Hardware+%26+Software" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&letterSpacing=.2rem;&pause=1000&color=F7A24C&center=true&vCenter=true&width=435&lines=Building+AI+%7C+Breaking+Security" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&letterSpacing=.2rem;&pause=1000&color=F7A24C&center=true&vCenter=true&width=435&lines=Developing+Hardware+%26+Software" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
