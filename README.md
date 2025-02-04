@@ -2,13 +2,17 @@
   <img src="https://komarev.com/ghpvc/?username=sayh3x&color=orange&style=plastic&label=H3XViews" alt="sayh3x" />
 </p>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=24&pause=1000&color=F7A24C&center=true&vCenter=true&repeat=false&width=435&lines=Hi%2C+i'm+H3X" alt="Typing SVG" /></a>
+</h1>
+
 <p align="center">
   <img src="https://github.com/sayh3x/sayh3x/blob/main/PH/now-h3x-mars.jpg" style="max-width: 100%; height: auto;" alt="H3X in Mars">
 </p>
 
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&duration=4000&pause=500&color=F7A869&vCenter=true&random=false&width=435&lines=I+Work+on%3A++Electronics%2C+AI%2C+Backend+Development+;and;Web+Development+Beginner++%3A')" style="max-width: 100%; height: auto;" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&pause=1000&color=F7A24C&center=true&vCenter=true&repeat=false&width=435&lines=Building+AI+%7C+Breaking+Security" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&letterSpacing=.2rem&pause=1000&color=F7A24C&center=true&vCenter=true&repeat=false&width=435&lines=Developing+Hardware+%26+Software" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
