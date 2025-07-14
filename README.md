@@ -18,6 +18,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sayh3x/sayh3x/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Doto&letterSpacing=.2rem;&pause=1000&color=F7A24C&center=true&vCenter=true&width=435&lines=Building+AI+%7C+Breaking+Security" alt="Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Doto&letterSpacing=.2rem;&pause=1000&color=F7A24C&center=true&vCenter=true&width=435&lines=Developing+Hardware+%26+Software" alt="Typing SVG" />
